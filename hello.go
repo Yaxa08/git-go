@@ -8,4 +8,3 @@ func main() {
 	name := "world"
 	sayHello(name)
 }
-/*  домашняя №1
